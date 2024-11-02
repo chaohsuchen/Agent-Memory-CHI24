@@ -1,0 +1,13 @@
+pandas
+numpy
+openai
+langchain
+chromadb
+python-docx
+PyMuPDF
+pywin32
+langchain_openai
+langchain-chroma
+boto3
+pypdf
+pytest
